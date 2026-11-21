@@ -1,7 +1,7 @@
 <h1 align="center">NIGIN · Weltengenerator</h1>
 
 <p align="center"><b><a href="https://marcohost33-maker.github.io/nigin-weltengenerator-studio/NIGIN_Weltengenerator_v0_6_0_Offline.html">▶ Im Browser spielen</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/marcohost33-maker/nigin-weltengenerator-studio/releases/download/v0.6.0/NIGIN_Weltengenerator_v0_6_0_Offline.html">⬇ HTML herunterladen</a></b> &nbsp;·&nbsp; Version 0.6.0 · Vorschau</p>
-<p align="center"><sub>Eine Datei · läuft offline · ohne Konto · keine Daten verlassen dein Gerät</sub></p>
+<p align="center"><sub>Eine Datei · läuft offline · ohne Konto · die Welt sendet keine Daten</sub></p>
 
 | Datei | Inhalt | Spielen | Download |
 |---|---|---|---|
@@ -28,7 +28,8 @@ Das **Weltstudio** erzeugt eine 300 × 300 m grosse Landschaft (Aare, Wald, Tal)
 
 ## Datenschutz
 
-- Die Welt läuft vollständig lokal; die Datei baut keine Netzwerkverbindungen auf und lädt nichts nach.
+- Die Welt läuft vollständig lokal; die Datei lädt nichts nach und baut von sich aus keine Netzwerkverbindungen auf.
+- Beim Spielen über *Im Browser spielen* liefert GitHub Pages die Datei aus und verarbeitet dabei, wie jeder Webserver, Zugriffsdaten (etwa die IP-Adresse). Mit der heruntergeladenen Datei entfällt auch das.
 - Speichern erfolgt über Dateien, die du selbst herunterlädst. Es gibt keinen Browserspeicher.
 - Keine Konten, keine Cookies, keine Analyse oder Werbung.
 

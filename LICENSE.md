@@ -19,6 +19,15 @@ Diese Lizenz gilt für die NIGIN-Spieldateien in diesem Repository und deren Beg
 - Verwendung der Dateien, Texte, Figuren oder Bilder zum Training von Modellen des maschinellen Lernens.
 - Nutzung der Namen und Figuren (NIGIN, Nigin der Fuchs und die Tierwesen) für eigene Produkte.
 
+## Kontakt
+
+Anfragen für eine Zustimmung: über ein Issue in diesem Repository oder über das GitHub-Profil https://github.com/marcohost33-maker.
+
+## Hinweise
+
+- KI-generierte Bildbestandteile sind von dieser Lizenz nur erfasst, soweit an ihnen Rechte bestehen.
+- Ein Fork auf GitHub ist nach den GitHub-Nutzungsbedingungen möglich; er erlaubt keine darüber hinausgehende Nutzung.
+
 ## Gewähr
 
 Die Spiele werden so bereitgestellt, wie sie sind, ohne Gewähr für Fehlerfreiheit oder Eignung für einen
