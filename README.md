@@ -24,7 +24,8 @@ Das **Weltstudio** erzeugt eine 300 × 300 m grosse Landschaft (Aare, Wald, Tal)
 ## Was es ist und was (noch) nicht
 
 - Stilisiert und frei erfunden, keine Geodaten und keine Hydrauliksimulation.
-- Entwicklungsansicht (0.x): Einige Prüf- und Diagnosefunktionen sind sichtbar.
+- Entwicklungsansicht (0.x): Einige Prüf- und Diagnosefunktionen und interne Statusmarken sind sichtbar.
+- Auf schmalen Bildschirmen (Handy) ist das Datei-Menü noch nicht erreichbar; Speichern und Laden ab Tablet-Breite.
 
 ## Datenschutz
 
