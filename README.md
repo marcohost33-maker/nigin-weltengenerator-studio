@@ -1,12 +1,12 @@
 <h1 align="center">NIGIN · Weltengenerator</h1>
 
-<p align="center"><b><a href="https://marcohost33-maker.github.io/nigin-weltengenerator-studio/NIGIN_Weltengenerator_v0_6_0_Offline.html">▶ Im Browser spielen</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/marcohost33-maker/nigin-weltengenerator-studio/releases/download/v0.6.0/NIGIN_Weltengenerator_v0_6_0_Offline.html">⬇ HTML herunterladen</a></b> &nbsp;·&nbsp; Version 0.6.0 · Vorschau</p>
+<p align="center"><b><a href="https://marcohost33-maker.github.io/nigin-weltengenerator-studio/NIGIN_Weltengenerator_v0_6_3_Offline.html">▶ Im Browser spielen</a></b> &nbsp;·&nbsp; <b><a href="https://github.com/marcohost33-maker/nigin-weltengenerator-studio/releases/download/v0.6.3/NIGIN_Weltengenerator_v0_6_3_Offline.html">⬇ HTML herunterladen</a></b> &nbsp;·&nbsp; Version 0.6.3 · Vorschau</p>
 <p align="center"><sub>Eine Datei · läuft offline · ohne Konto · die Welt sendet keine Daten</sub></p>
 
 | Datei | Inhalt | Spielen | Download |
 |---|---|---|---|
-| **Weltengenerator** | Start in der Landschaftsansicht | [▶ spielen](https://marcohost33-maker.github.io/nigin-weltengenerator-studio/NIGIN_Weltengenerator_v0_6_0_Offline.html) | [⬇ HTML](https://github.com/marcohost33-maker/nigin-weltengenerator-studio/releases/download/v0.6.0/NIGIN_Weltengenerator_v0_6_0_Offline.html) |
-| **Baukasten** | dasselbe Weltstudio, Start direkt im Hex-Baukasten | [▶ spielen](https://marcohost33-maker.github.io/nigin-weltengenerator-studio/NIGIN_Baukasten_v0_6_0_Offline.html) | [⬇ HTML](https://github.com/marcohost33-maker/nigin-weltengenerator-studio/releases/download/v0.6.0/NIGIN_Baukasten_v0_6_0_Offline.html) |
+| **Weltengenerator** | Start in der Landschaftsansicht | [▶ spielen](https://marcohost33-maker.github.io/nigin-weltengenerator-studio/NIGIN_Weltengenerator_v0_6_3_Offline.html) | [⬇ HTML](https://github.com/marcohost33-maker/nigin-weltengenerator-studio/releases/download/v0.6.3/NIGIN_Weltengenerator_v0_6_3_Offline.html) |
+| **Baukasten** | dasselbe Weltstudio, Start direkt im Hex-Baukasten | [▶ spielen](https://marcohost33-maker.github.io/nigin-weltengenerator-studio/NIGIN_Baukasten_v0_6_3_Offline.html) | [⬇ HTML](https://github.com/marcohost33-maker/nigin-weltengenerator-studio/releases/download/v0.6.3/NIGIN_Baukasten_v0_6_3_Offline.html) |
 
 Das **Weltstudio** erzeugt eine 300 × 300 m grosse Landschaft (Aare, Wald, Tal) aus Parametern und einem Seed. Im **Landschaftssimulator** malst du Bodenarten, Pflanzen und Wasserquellen und lässt die Welt Schritt für Schritt weiterrechnen. Im **Baukasten** baust du von Hand: Jedes Sechseck hat eine Mitte und sechs Randsegmente. Welten lassen sich als JSON speichern und wieder laden, Ansichten als PNG exportieren.
 
@@ -24,8 +24,8 @@ Das **Weltstudio** erzeugt eine 300 × 300 m grosse Landschaft (Aare, Wald, Tal)
 ## Was es ist und was (noch) nicht
 
 - Stilisiert und frei erfunden, keine Geodaten und keine Hydrauliksimulation.
-- Entwicklungsansicht (0.x): Einige Prüf- und Diagnosefunktionen und interne Statusmarken sind sichtbar.
-- Auf schmalen Bildschirmen (Handy) ist das Datei-Menü noch nicht erreichbar; Speichern und Laden ab Tablet-Breite.
+- Entwicklungsansicht (0.x): Prüf- und Diagnosefunktionen (Kurzkontrolle, Tiefenprüfung, Benchmark) stehen im Datei-Menü.
+- Die Handy-Bedienung ist im Browser-Emulator geprüft, auf echten Geräten noch nicht systematisch.
 
 ## Datenschutz
 
@@ -39,9 +39,11 @@ Das **Weltstudio** erzeugt eine 300 × 300 m grosse Landschaft (Aare, Wald, Tal)
 Die Dateien in diesem Repository und im Release sind byte-gleich. SHA-256 (auch in `SHA256SUMS.txt`):
 
 ```
-42fed12809bfdd07336b16eee064415c66db5230ad6f5b72cef67b6c6131d657  NIGIN_Weltengenerator_v0_6_0_Offline.html
-465043b6da84eebd8d095e4714cf40cf89e78a68bbf322dee1dd9728e5c37be7  NIGIN_Baukasten_v0_6_0_Offline.html
+d1279fdd27ac843380e5589264162464ac7a2edaa6f7b455000d10371999f285  NIGIN_Weltengenerator_v0_6_3_Offline.html
+1b1bc9c576ebd67225d6f5641b8bafac91c204830b0df98ceabae0d33a67f850  NIGIN_Baukasten_v0_6_3_Offline.html
 ```
+
+Was sich je Version geändert hat, steht in [CHANGELOG.md](CHANGELOG.md).
 
 ## Lizenz
 
